@@ -1,5 +1,5 @@
 import{configureStudioLighting as __studioLighting}from"./studio-lighting.js?v=1";
-import{hasChosenCharacter as __hasProfile,rememberCharacter as __rememberProfile,openPlayerStudio as __openStudio}from"./player-profile.js?v=profile-1";
+import{hasChosenCharacter as __hasProfile,rememberCharacter as __rememberProfile,openPlayerStudio as __openStudio}from"./player-profile.js?v=profile-2";
 import{stepWaterJump}from"./water-jump.js?v=water-jump-1";
 import "./lane-rush-panel.js?v=rush-1";
 import {installObstaclePractice} from "./obstacle-practice-entry.js?v=release-40c";
