@@ -1,4 +1,4 @@
-import {applyMapContinuity} from '../app/map-continuity.js?v=map-59';
+import {applyMapContinuity} from '../app/map-continuity.js?v=seams-1';
 import {applyKimiCoast20} from '/67park-kimi-party/app/kimi-coast20.js?v=coast-24';
 import {cleanLowerPark} from '/67park-kimi-party/app/park-lower-cleanup.js?v=20260914p';
 import {repairEastRoadEnd} from '/67park-kimi-party/app/east-road-end.js?v=corner-49b';
